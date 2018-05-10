@@ -3,10 +3,10 @@
 
 *A sample drive a 4*3keypad and 4digit common cothod sevensegmen
 *This cod used CMSIS functions that simpler than register order   
-*Please give me your coment and send it to hamidnoori528@gmail.com or @HMD77-->>telegram ID 
+*Please give me your coment and send it to hamidnoori528@gmail.com or @HMD77-->>telegram ID or search this in    github:hamid9192358100/HMD 
 
 
-               *******writen by HMD.n(darck_syber)**********
+                             *******writen by HMD.n**********
 *********************************************************************************************************/
 #include "lpc17xx_gpio.h"
 
